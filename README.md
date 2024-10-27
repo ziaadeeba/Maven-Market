@@ -35,9 +35,9 @@ Data Visualization and Dashboard Design: Developed a fully interactive dashboard
 
 Key Insights:
 
-Country Performance: The United States leads in profit, transactions, revenue, and orders across all three countries.
-Brand Analysis: "Hermanos" emerges as the top-performing brand in both profit and transaction volume, despite having high quantity of returns.
-Revenue Insights: Mexico generates more revenue than Canada, even though it has almost half the sales volume.
+* Country Performance: The United States leads in profit, transactions, revenue, and orders across all three countries.
+* Brand Analysis: "Hermanos" emerges as the top-performing brand in both profit and transaction volume, despite having high quantity of returns.
+* Revenue Insights: Mexico generates more revenue than Canada, even though it has almost half the sales volume.
 
 
 
